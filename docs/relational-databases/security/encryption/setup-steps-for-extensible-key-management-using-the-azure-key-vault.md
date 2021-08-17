@@ -535,7 +535,7 @@ For sample scripts, see the blog at [SQL Server Transparent Data Encryption and 
   
 Now that you've completed the basic configuration, see [Use the SQL Server Connector with SQL encryption features](../../../relational-databases/security/encryption/use-sql-server-connector-with-sql-encryption-features.md).
   
-## See also  
+## See also
 
 - [Extensible Key Management with Azure Key Vault](../../../relational-databases/security/encryption/extensible-key-management-using-azure-key-vault-sql-server.md)
 - [SQL Server Connector maintenance and troubleshooting](../../../relational-databases/security/encryption/sql-server-connector-maintenance-troubleshooting.md)
